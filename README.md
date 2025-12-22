@@ -7,8 +7,6 @@
 
 A sophisticated JavaFX application that implements and visualizes **B-Tree data structures** with real-time graphical representation. This project demonstrates advanced algorithms and data structures concepts through an intuitive, interactive interface.
 
-![B-Tree Visualizer Demo](demo-screenshot.png)
-
 ## Key Features
 
 ### Complete B-Tree Operations
