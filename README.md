@@ -53,7 +53,7 @@ mvn clean javafx:run
 
 On launch, you'll be prompted to enter a branching factor (t ≥ 2). The application opens with an empty tree ready for operations.
 
-## Screenshots
+## Screenshots (To add soon)
 
 ![B-Tree Visualization Example]
 
