@@ -5,12 +5,13 @@ An interactive JavaFX application for visualizing B-Tree data structures with re
 ![Java](https://img.shields.io/badge/Java-22-orange.svg)
 ![JavaFX](https://img.shields.io/badge/JavaFX-22.0.1-blue.svg)
 ![Maven](https://img.shields.io/badge/Maven-Build-red.svg)
+> **Note**: This project was developed with AI assistance as a learning and development tool, alongside traditional programming methods.
+
 
 ## Overview
 
 This project implements a complete B-Tree data structure from scratch with an intuitive GUI that visualizes tree operations in real-time using Graphviz. Built to demonstrate understanding of advanced data structures and algorithms.
 
-**Note:** This project was developed with AI assistance to accelerate development and explore best practices in JavaFX application architecture.
 
 ## Features
 
