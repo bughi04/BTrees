@@ -98,12 +98,6 @@ mvn clean javafx:run
 - Click respective buttons for Min, Max, Predecessor, Successor
 - View complete inorder traversal
 
-## Complete Documentation
-
-For in-depth technical details, algorithm explanations, and implementation insights:
-
-**[View Complete Technical Documentation](docs/technical-documentation.pdf)**
-
 ## B-Tree Properties Maintained
 
 This implementation strictly maintains all B-Tree invariants:
